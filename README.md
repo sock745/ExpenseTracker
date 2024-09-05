@@ -1,4 +1,4 @@
-This project taught me how to use lambda functions, I decided to make a financial tracker out of the skills I learned.
+This project taught me how to use lambda functions, I decided to make a financial tracker out of the skills I learned. Follow the numbered instructions to input the values.
 https://replit.com/@Alexwang123/Expense-Tracker
 
 
